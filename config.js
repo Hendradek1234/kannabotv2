@@ -52,23 +52,23 @@ global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '083181085070'
+global.povo = '083181085070'
+global.pgopay = '083181085070'
+global.ppulsa = '083181085070'
+global.ppulsa2 = '083181085070'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '083181085070'
+global.nomorown = '24105166540'
+global.namebot = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.nameown = 'X 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['+24105166540', 'X 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,9 +113,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 24105166540 |𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐⁩ 」' //Main Watermark
+global.wm2 = '    乂 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ 乂     '
+global.wm3 = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
