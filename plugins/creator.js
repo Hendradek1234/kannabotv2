@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Dani Offcial
+*ɴᴀᴍᴇ:* 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐
 *ᴀɢᴇ:* 15ᵗʰ
 *sᴛᴀᴛᴜs:* Hanya Butuh Pasangan:v 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 16 Desember 2007
-*ᴀᴅᴅʀᴇss:* Indonesia, Kalsel, Kandangan
+*ʙɪʀᴛʜᴅᴀʏ:* 6 juni 2006
+*ᴀᴅᴅʀᴇss:* Indonesia, Jawa barat, Cirebon 
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
@@ -35,7 +35,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 
 📷 *Instagram:* ${sig}
 🐈 *Github:* ${sgh}
-🥏 *Whatsapp* wa.me/${nomorown}
+🥏 *Whatsapp* wa.me/24105166540/${nomorown}
 
 `
   let teks = ' '
@@ -43,8 +43,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
+	    {title: "📱 • Nomor", rowId: ".24105166540},
+	{title: "🎨 • Biodata", rowId: ".Hendra no counter"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
